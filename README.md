@@ -1,6 +1,6 @@
 # Projeto_FREE
 ------------
-Projeto simples com o a Utilização do Python e suas Bibliotecas.
+Projeto simples com o a Utilização do Python e suas Bibliotecas. Praticamente um downloader grátis de videos.🤫
 
 ![freeV](https://github.com/Klaiancdrosa/Projeto_FREE/assets/103066223/c33b54b1-392a-4504-ae52-d0ad0b3e53e1)
 
